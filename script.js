@@ -12,15 +12,41 @@ let currentYear = 2026;
 let currentMonth = 5;
 let selectedDate = null;
 let serverAvailable = false;
+let currentTheme = 'dark';
 
 // ===== 初始化 =====
 document.addEventListener('DOMContentLoaded', init);
 
 function init() {
+  initTheme();
   loadFromStorage();
   renderAll();
   bindEvents();
   checkServerAvailability();
+}
+
+// ===== 主题管理 =====
+const THEME_STORAGE_KEY = 'gacha_calendar_theme';
+
+function initTheme() {
+  const saved = localStorage.getItem(THEME_STORAGE_KEY);
+  if (saved) {
+    currentTheme = saved;
+  } else {
+    currentTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+  applyTheme(currentTheme);
+}
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  localStorage.setItem(THEME_STORAGE_KEY, theme);
+  currentTheme = theme;
+}
+
+function toggleTheme() {
+  const next = currentTheme === 'dark' ? 'light' : 'dark';
+  applyTheme(next);
 }
 
 function loadFromStorage() {
@@ -99,14 +125,30 @@ function renderGameList() {
       renderCalendar();
     });
 
-    // Logo
+    // Logo – use image if logo_url exists, fallback to CSS shape
     const logo = document.createElement('div');
     logo.className = 'game-logo';
-    const shapeEl = document.createElement('div');
-    shapeEl.className = `logo-${game.shape}`;
-    shapeEl.style.color = game.color;
-    shapeEl.style.background = (game.shape === 'diamond' || game.shape === 'hexagon' || game.shape === 'star' || game.shape === 'bolt' || game.shape === 'shield' || game.shape === 'leaf') ? game.color : 'transparent';
-    logo.appendChild(shapeEl);
+    const SOLID_SHAPES = ['diamond', 'hexagon', 'star', 'bolt', 'shield', 'leaf'];
+
+    function renderShapeFallback() {
+      logo.innerHTML = '';
+      const shapeEl = document.createElement('div');
+      shapeEl.className = `logo-${game.shape}`;
+      shapeEl.style.color = game.color;
+      shapeEl.style.background = SOLID_SHAPES.includes(game.shape) ? game.color : 'transparent';
+      logo.appendChild(shapeEl);
+    }
+
+    if (game.logo_url) {
+      const img = document.createElement('img');
+      img.className = 'game-logo-img';
+      img.src = game.logo_url;
+      img.alt = game.name;
+      img.onerror = renderShapeFallback;
+      logo.appendChild(img);
+    } else {
+      renderShapeFallback();
+    }
 
     // Name
     const name = document.createElement('span');
@@ -393,7 +435,6 @@ function updateDetailPanel() {
     dot.style.marginRight = '6px';
     gameTag.appendChild(dot);
     gameTag.appendChild(document.createTextNode(item.gameName + (item.event.confirmed ? ' · 已确认' : ' · 推算')));
-    li.style.borderLeftColor = item.gameColor;
 
     info.append(ename, desc, gameTag);
     li.append(badge, info);
@@ -493,6 +534,7 @@ function resetUpdateBtn() {
 // ===== 事件绑定 =====
 function bindEvents() {
   document.getElementById('btn-update').addEventListener('click', handleUpdate);
+  document.getElementById('btn-theme-toggle').addEventListener('click', toggleTheme);
 
   document.getElementById('btn-prev').addEventListener('click', () => {
     currentMonth -= 2;

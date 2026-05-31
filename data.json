@@ -134,7 +134,8 @@
           "detail": "基于42天周期推算，待官方确认",
           "confirmed": false
         }
-      ]
+      ],
+      "logo_url": "https://wutheringwaves.kurogames.com/favicon.ico"
     },
     {
       "id": "neverness_to_everness",
@@ -389,7 +390,8 @@
           "detail": "基于35天周期推算，待官方确认",
           "confirmed": false
         }
-      ]
+      ],
+      "logo_url": ""
     },
     {
       "id": "punishing_gray_raven",
@@ -511,7 +513,8 @@
           "detail": "基于42天周期推算，待官方确认",
           "confirmed": false
         }
-      ]
+      ],
+      "logo_url": "https://wiki.biligame.com/pgr/favicon.ico"
     },
     {
       "id": "arknights_endfield",
@@ -710,7 +713,8 @@
           "detail": "基于42天周期推算，待官方确认",
           "confirmed": false
         }
-      ]
+      ],
+      "logo_url": "https://endfield.hypergryph.com/favicon.ico"
     }
   ],
   "color_pool": [
