@@ -9,6 +9,62 @@
       "enabled": true,
       "events": [
         {
+          "date": "2026-01-01",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-02",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-05",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": ";-ms-zoom:1.1}.bdzoom105{zoom:1.05;-ms-zoom:1.05}.bdzoom95{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-08",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-15",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-25",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2026-02-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
           "date": "2026-02-20",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -20,6 +76,20 @@
           "type": "前瞻",
           "name": "鸣潮 前瞻",
           "detail": "ww.bilibili.com › video 《 鸣 潮》3.4版本前瞻通讯 | 回顾影像_哔哩哔哩bilibili 2 天",
+          "confirmed": true
+        },
+        {
+          "date": "2026-03-06",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
+          "confirmed": true
+        },
+        {
+          "date": "2026-04-08",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "izing:border-box;box-shadow:0 4.8px 14.4px rgba(0,0,0,.18),0 25",
           "confirmed": true
         },
         {
@@ -58,10 +128,24 @@
           "confirmed": true
         },
         {
+          "date": "2026-06-04",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
           "date": "2026-06-08",
           "type": "版本更新",
           "name": "3.4「未选择的梦」正式上线",
           "detail": "新主线、夜之城、联动活动",
+          "confirmed": true
+        },
+        {
+          "date": "2026-06-09",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
           "confirmed": true
         },
         {
@@ -79,6 +163,62 @@
           "confirmed": true
         },
         {
+          "date": "2027-01-01",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-02",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-05",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": ";-ms-zoom:1.1}.bdzoom105{zoom:1.05;-ms-zoom:1.05}.bdzoom95{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-08",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-15",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-25",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2027-02-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
           "date": "2027-02-20",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -90,6 +230,20 @@
           "type": "前瞻",
           "name": "鸣潮 前瞻",
           "detail": "ww.bilibili.com › video 《 鸣 潮》3.4版本前瞻通讯 | 回顾影像_哔哩哔哩bilibili 2 天",
+          "confirmed": true
+        },
+        {
+          "date": "2027-03-06",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
+          "confirmed": true
+        },
+        {
+          "date": "2027-04-08",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "izing:border-box;box-shadow:0 4.8px 14.4px rgba(0,0,0,.18),0 25",
           "confirmed": true
         },
         {
@@ -121,6 +275,13 @@
           "confirmed": true
         },
         {
+          "date": "2027-06-04",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
           "date": "2027-06-08",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -128,7 +289,14 @@
           "confirmed": true
         },
         {
-          "date": "2027-07-20",
+          "date": "2027-06-09",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
+          "confirmed": true
+        },
+        {
+          "date": "2027-07-21",
           "type": "版本更新",
           "name": "下版本 版本（推算）",
           "detail": "基于42天周期推算，待官方确认",
@@ -160,6 +328,62 @@
           "confirmed": true
         },
         {
+          "date": "2026-01-01",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-02",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-03",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-05",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": ";-ms-zoom:1.1}.bdzoom105{zoom:1.05;-ms-zoom:1.05}.bdzoom95{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-08",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-15",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-25",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2026-02-03",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
           "date": "2026-02-05",
           "type": "版本更新",
           "name": "异环 版本更新",
@@ -185,6 +409,13 @@
           "type": "版本更新",
           "name": "异环 版本更新",
           "detail": "dated 虎牙主播们的定制舞蹈视频哪里可以看？ - 知乎 2026年3月1日&ensp;&#0183;&ensp;资源简介： 虎牙、斗鱼",
+          "confirmed": true
+        },
+        {
+          "date": "2026-03-06",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
           "confirmed": true
         },
         {
@@ -237,6 +468,20 @@
           "confirmed": true
         },
         {
+          "date": "2026-06-04",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
+          "date": "2026-06-09",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
+          "confirmed": true
+        },
+        {
           "date": "2026-06-19",
           "type": "卡池",
           "name": "卡厄斯 限定卡池",
@@ -286,6 +531,62 @@
           "confirmed": true
         },
         {
+          "date": "2027-01-01",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-02",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-03",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-05",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": ";-ms-zoom:1.1}.bdzoom105{zoom:1.05;-ms-zoom:1.05}.bdzoom95{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-08",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-15",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-25",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2027-02-03",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
           "date": "2027-02-05",
           "type": "版本更新",
           "name": "异环 版本更新",
@@ -314,6 +615,13 @@
           "confirmed": true
         },
         {
+          "date": "2027-03-06",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
+          "confirmed": true
+        },
+        {
           "date": "2027-03-15",
           "type": "版本更新",
           "name": "异环 版本更新",
@@ -339,6 +647,20 @@
           "type": "版本更新",
           "name": "异环 版本更新",
           "detail": "异 」→「 异 」 - 大陸居民臺灣正體字講義 2026年5月24日&ensp;&#0183;&ensp;而「异」則是指舉，任用",
+          "confirmed": true
+        },
+        {
+          "date": "2027-06-04",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
+          "date": "2027-06-09",
+          "type": "版本更新",
+          "name": "异环 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
           "confirmed": true
         },
         {
@@ -402,10 +724,80 @@
       "enabled": true,
       "events": [
         {
+          "date": "2026-01-01",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-02",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-03",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-05",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": ";-ms-zoom:1.1}.bdzoom105{zoom:1.05;-ms-zoom:1.05}.bdzoom95{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-08",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-15",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-25",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2026-02-03",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
           "date": "2026-02-20",
           "type": "版本更新",
           "name": "战双帕弥什 版本更新",
           "detail": "。 分页 1 2 3 下一页 增值电信业务经营许可证：合字B2-20090007 京ICP备10036305号-7 京公网安备1",
+          "confirmed": true
+        },
+        {
+          "date": "2026-03-06",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
+          "confirmed": true
+        },
+        {
+          "date": "2026-04-08",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "izing:border-box;box-shadow:0 4.8px 14.4px rgba(0,0,0,.18),0 25",
           "confirmed": true
         },
         {
@@ -444,6 +836,20 @@
           "confirmed": true
         },
         {
+          "date": "2026-06-04",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
+          "date": "2026-06-09",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
+          "confirmed": true
+        },
+        {
           "date": "2026-07-18",
           "type": "版本更新",
           "name": "战双帕弥什 版本更新",
@@ -465,10 +871,80 @@
           "confirmed": true
         },
         {
+          "date": "2027-01-01",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-02",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-03",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-05",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": ";-ms-zoom:1.1}.bdzoom105{zoom:1.05;-ms-zoom:1.05}.bdzoom95{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-08",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-15",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-25",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2027-02-03",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
           "date": "2027-02-20",
           "type": "版本更新",
           "name": "战双帕弥什 版本更新",
           "detail": "。 分页 1 2 3 下一页 增值电信业务经营许可证：合字B2-20090007 京ICP备10036305号-7 京公网安备1",
+          "confirmed": true
+        },
+        {
+          "date": "2027-03-06",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
+          "confirmed": true
+        },
+        {
+          "date": "2027-04-08",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "izing:border-box;box-shadow:0 4.8px 14.4px rgba(0,0,0,.18),0 25",
           "confirmed": true
         },
         {
@@ -483,6 +959,20 @@
           "type": "版本更新",
           "name": "战双帕弥什 版本更新",
           "detail": "音,意思,字典释义 - 《新华字典》 - 汉辞宝 2026年5月23日&ensp;&#0183;&ensp;【战】字本义为作战，打",
+          "confirmed": true
+        },
+        {
+          "date": "2027-06-04",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
+          "date": "2027-06-09",
+          "type": "版本更新",
+          "name": "战双帕弥什 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
           "confirmed": true
         },
         {
@@ -532,6 +1022,27 @@
           "confirmed": true
         },
         {
+          "date": "2026-01-01",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-02",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-03",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
           "date": "2026-01-05",
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
@@ -539,10 +1050,38 @@
           "confirmed": true
         },
         {
+          "date": "2026-01-08",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-15",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
           "date": "2026-01-22",
           "type": "版本更新",
           "name": "1.0「零号委托」公测",
           "detail": "全球公测开启",
+          "confirmed": true
+        },
+        {
+          "date": "2026-01-25",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2026-02-03",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
           "confirmed": true
         },
         {
@@ -557,6 +1096,13 @@
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
           "detail": "TS - 玩家共同构筑的 明日 方舟中文Wiki 2025年3月1日&ensp;&#0183;&ensp;PRTS是一个非营利性",
+          "confirmed": true
+        },
+        {
+          "date": "2026-03-06",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
           "confirmed": true
         },
         {
@@ -578,6 +1124,13 @@
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
           "detail": "览 干员一览 - 明日 方舟WIKI_BWIKI_哔哩哔哩 2026年3月13日&ensp;&#0183;&ensp;明日方舟WIKI是由白",
+          "confirmed": true
+        },
+        {
+          "date": "2026-04-08",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "izing:border-box;box-shadow:0 4.8px 14.4px rgba(0,0,0,.18),0 25",
           "confirmed": true
         },
         {
@@ -609,6 +1162,13 @@
           "confirmed": true
         },
         {
+          "date": "2026-06-04",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
           "date": "2026-06-05",
           "type": "版本更新",
           "name": "1.3「寻遗散记」上线",
@@ -620,6 +1180,13 @@
           "type": "卡池",
           "name": "弭弗 限定卡池",
           "detail": "物理属性输出，至6月26日",
+          "confirmed": true
+        },
+        {
+          "date": "2026-06-09",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
           "confirmed": true
         },
         {
@@ -644,10 +1211,59 @@
           "confirmed": true
         },
         {
+          "date": "2027-01-01",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "-ms-zoom:1.15}.bdzoom110{zoom:1.1;-ms-zoom:1.1}.bdzoom105{zoom:",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-02",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "nt-family)}h1,h2,h3{font:13px/1.2em var(--bing-smtc-text-style-",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-03",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "ular-font-family);line-height:1.3em}h2.b_entityTitle,.b_promine",
+          "confirmed": true
+        },
+        {
           "date": "2027-01-05",
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
           "detail": "舟》EP - All by My Design #明日方舟 1.5万 《明日方舟》主题曲【相变临界】新增 … // // 为回",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-08",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "caleY(1)}50%{transform:scaleY(1.8)}100%{transform:scaleY(.55)}}",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-15",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "tion:relative}.bdzoom115{zoom:1.15;-ms-zoom:1.15}.bdzoom110{zoom",
+          "confirmed": true
+        },
+        {
+          "date": "2027-01-25",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "scale(1)}100%{transform:scale(1.25)}}.b_mic_pulse{animation:puls",
+          "confirmed": true
+        },
+        {
+          "date": "2027-02-03",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
           "confirmed": true
         },
         {
@@ -665,6 +1281,13 @@
           "confirmed": true
         },
         {
+          "date": "2027-03-06",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "nd:#ececec;box-shadow:0 1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4",
+          "confirmed": true
+        },
+        {
           "date": "2027-03-09",
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
@@ -679,6 +1302,13 @@
           "confirmed": true
         },
         {
+          "date": "2027-04-08",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "izing:border-box;box-shadow:0 4.8px 14.4px rgba(0,0,0,.18),0 25",
+          "confirmed": true
+        },
+        {
           "date": "2027-04-30",
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
@@ -690,6 +1320,20 @@
           "type": "版本更新",
           "name": "明日方舟终末地 版本更新",
           "detail": "knights.global Arknights 2026年5月13日&ensp;&#0183;&ensp;Welcome to",
+          "confirmed": true
+        },
+        {
+          "date": "2027-06-04",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "1.2px 3.6px rgba(0,0,0,.1),0 6.4px 14.4px rgba(0,0,0,.13);bord",
+          "confirmed": true
+        },
+        {
+          "date": "2027-06-09",
+          "type": "版本更新",
+          "name": "明日方舟终末地 版本更新",
+          "detail": "dth:1160px}@media(max-width:1406.9px){#b_content{--rgutter:40px;",
           "confirmed": true
         },
         {
