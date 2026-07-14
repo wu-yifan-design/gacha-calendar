@@ -9,6 +9,20 @@
       "enabled": true,
       "events": [
         {
+          "date": "2025-02-04",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "indows 11 | Microsoft Support 2025年2月4日 &nbsp;&#0183;&#32;Learn how t",
+          "confirmed": true
+        },
+        {
+          "date": "2025-12-19",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "vice Encryption in Windows 11 2025年12月19日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
           "date": "2026-01-01",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -51,6 +65,13 @@
           "confirmed": true
         },
         {
+          "date": "2026-01-19",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "App Issues - Windows 11 Forum 2026年1月19日 &nbsp;&#0183;&#32;Good evenin",
+          "confirmed": true
+        },
+        {
           "date": "2026-01-25",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -62,6 +83,13 @@
           "type": "版本更新",
           "name": "鸣潮 版本更新",
           "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
+          "date": "2026-02-04",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "s 11 | Microsoft Support 2025年2月4日 &nbsp;&#0183;&#32;Learn how t",
           "confirmed": true
         },
         {
@@ -86,6 +114,13 @@
           "confirmed": true
         },
         {
+          "date": "2026-03-14",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ifications in Windows 11 2022年3月14日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
           "date": "2026-04-08",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -104,6 +139,13 @@
           "type": "版本更新",
           "name": "鸣潮 版本更新",
           "detail": "com › mc 鸣 潮WIKI官网- 鸣 潮图鉴-库街区 2026年4月30日&ensp;&#0183;&ensp;欢迎漂泊者来到《鸣潮》",
+          "confirmed": true
+        },
+        {
+          "date": "2026-05-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ws 11 | Windows 11 Forum 2022年5月3日 &nbsp;&#0183;&#32;This tutori",
           "confirmed": true
         },
         {
@@ -163,6 +205,20 @@
           "confirmed": true
         },
         {
+          "date": "2026-09-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ts Feature in Windows 11 2021年9月3日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
+          "date": "2026-12-19",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "Encryption in Windows 11 2025年12月19日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
           "date": "2027-01-01",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -205,6 +261,13 @@
           "confirmed": true
         },
         {
+          "date": "2027-01-19",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ssues - Windows 11 Forum 2026年1月19日 &nbsp;&#0183;&#32;Good evenin",
+          "confirmed": true
+        },
+        {
           "date": "2027-01-25",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -216,6 +279,13 @@
           "type": "版本更新",
           "name": "鸣潮 版本更新",
           "detail": "cbtn{width:calc(33.33% - (8px*2/3));min-width:calc(33.33% - (8p",
+          "confirmed": true
+        },
+        {
+          "date": "2027-02-04",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "s 11 | Microsoft Support 2025年2月4日 &nbsp;&#0183;&#32;Learn how t",
           "confirmed": true
         },
         {
@@ -240,6 +310,13 @@
           "confirmed": true
         },
         {
+          "date": "2027-03-14",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ifications in Windows 11 2022年3月14日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
           "date": "2027-04-08",
           "type": "版本更新",
           "name": "鸣潮 版本更新",
@@ -258,6 +335,13 @@
           "type": "版本更新",
           "name": "鸣潮 版本更新",
           "detail": "urogames-global.com 《 鸣 潮》潮声庆典4月30日开启 2026年5月9日&ensp;&#0183;&ensp",
+          "confirmed": true
+        },
+        {
+          "date": "2027-05-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ws 11 | Windows 11 Forum 2022年5月3日 &nbsp;&#0183;&#32;This tutori",
           "confirmed": true
         },
         {
@@ -296,7 +380,21 @@
           "confirmed": true
         },
         {
-          "date": "2027-07-21",
+          "date": "2027-09-03",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "ts Feature in Windows 11 2021年9月3日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
+          "date": "2027-12-19",
+          "type": "版本更新",
+          "name": "鸣潮 版本更新",
+          "detail": "Encryption in Windows 11 2025年12月19日 &nbsp;&#0183;&#32;This tutori",
+          "confirmed": true
+        },
+        {
+          "date": "2028-01-30",
           "type": "版本更新",
           "name": "下版本 版本（推算）",
           "detail": "基于42天周期推算，待官方确认",
